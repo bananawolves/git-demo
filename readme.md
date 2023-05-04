@@ -1,2 +1,3 @@
-git-demo²Ö¿âµÄËµÃ÷
-Hello,git
+GIT-DEMO Warehouse description
+   
+   Hello,git
